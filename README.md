@@ -1,16 +1,31 @@
-## Hi there 👋
+# Oi, sou a Maytê ⋆
 
-<!--
-**maytekjaer/maytekjaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação, aprendendo a transformar lógica em algo concreto com intenção e constância.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✧ Atualmente
+
+- Desenvolvendo projetos pessoais em Python  
+- Estudando estruturas de dados  
+- Aprendendo controle de versão com Git  
+
+---
+
+## ✧ Tecnologias
+
+- Python  
+- Git & GitHub  
+- C (em aprendizado)
+
+---
+
+## ✧ O que me move
+
+Código limpo.  
+Evolução contínua.  
+Um commit de cada vez.
+
+---
+
+☆ Em construção.
