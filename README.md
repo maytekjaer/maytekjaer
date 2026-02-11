@@ -20,7 +20,7 @@ Estudante de Ciência da Computação, aprendendo a transformar lógica em algo 
 
 ---
 
-## ✧ O que me move
+## ✧ Curto bastante
 
 Código limpo.  
 Evolução contínua.  
